@@ -18,7 +18,8 @@ The "Diabetes Prediction" dataset contains information about factors associated 
 
 ## Repository Structure
 - `diabetes_prediction_dataset.csv`: Contains the raw data file used in the analysis.
-- `diabetes_prediction.py`: Python script containing the code for data preprocessing, analysis, and prediction.
+- `Diabetes_Prediction_Dataset_Analysis.ipynb`: Python script containing the code for data preprocessing, analysis, and prediction.
+- `diabetes_prediction.py`: Python script for predicting diabetes status based on user input.
 
 ## Dependencies
 - Python
@@ -27,8 +28,7 @@ The "Diabetes Prediction" dataset contains information about factors associated 
 - SciPy
 - Matplotlib
 - Seaborn
-- Plotly Express
-- Statsmodels
+- sklearn
 - Jupyter Notebook
 
 ## Getting Started
